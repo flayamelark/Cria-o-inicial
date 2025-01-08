@@ -1,0 +1,40 @@
+h1{
+   text-align: center;
+   color: red;
+   margin-top: 100px;
+   background-color: black;
+}
+div h2{
+   color: black;
+   background-color: red;
+   margin-right: 10px;
+   margin-top: 1px;
+}
+
+div{
+   h3{color: black;
+      background-color: red;
+   margin-right: 10px;
+   margin-top: 1px;
+   }
+}
+img{
+   float: right;
+}
+
+button{
+   color:blue;
+   text-decoration: underline;
+   background-color: yellow;
+}
+
+#Kiwi span {
+   background-color:greenyellow ;
+
+}
+#red span {
+   background-color: red;
+}
+#amarelo{
+   background-color: yellow
+}

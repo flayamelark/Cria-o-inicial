@@ -1,0 +1,59 @@
+/* h1{
+    color: blueviolet;
+    border: 5px solid yellow;
+    float: left;
+    background-color: black;
+    margin-top: 10px;
+} */
+h2{
+    color: red;
+    border: 6px dotted black;
+    float: right;
+    margin-top: 10%;
+}
+h3{
+    text-align: center;
+    margin-left: 800px;
+    margin-right: 300px;
+    margin-bottom: 500px;
+}
+
+p{
+    text-align: justify
+}
+div{
+    text-align: center;
+    background-color: ;
+    width: 300px;
+    height: 200px;
+    border: solid red 50px;
+    align-content: center;
+    padding: 50px;
+}
+#Dick{
+color: brown;
+font-weight: bold;
+font-size: 50px;
+text-decoration: overline black
+
+}
+#Dick span{
+  color: pink;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+p{
+    color: red;
+    font-weight: bold;
+    font-style: oblceique;
+    text-decoration: undecenteline crimson;
+    text-align: center;
+
+}
+    button{
+
+        color: blueviolet;
+        text-decoration: underline;
+        background-color: ;
+    }

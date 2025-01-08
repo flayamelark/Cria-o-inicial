@@ -1,0 +1,16 @@
+button{
+    float: right;
+    background-color: blueviolet;
+   border-color: aqua;
+   text-decoration: underline;
+   border: 10px solid blanchedalmond;
+ 
+}
+div {
+ text-align: justify;
+ justify-content: center;   
+ align-items: center;
+ display: flex;
+ flex-direction: column;
+}
+ 
